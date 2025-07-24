@@ -33,3 +33,4 @@
              <Route path="*" element={<NotFound />} />
          </Routes>
      );
+ }
